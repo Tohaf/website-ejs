@@ -1,0 +1,9 @@
+
+.back{
+    width: 100%;
+	background-size: cover;
+	background-position: center;
+    font-size: 20px;
+    background-image: url(/stylesheet/image.jpeg) ;
+    
+ }
